@@ -9,6 +9,11 @@ courses: { compsci: {week: 13} }
 ## Goal
 Integrate Binary and SASS into a practice project to prepare for our passion projct.
 ## Elements
+Binary - convert RGB color codes to binary 
+Color Code - convert messages into binary which will be converted into color.
+Logic Gates- interactive place where buttons are pressed to show what gates do based on true/false values if a light turns off and on
+Math In Binary-  Binary/Decimal calculator that shows the steps between conversion including left/right shifts if specified
+
 1. Convert RGB Color Codes to Binary:
 HTML Structure: Similar to the previous plan.
 SASS Integration:
@@ -43,4 +48,19 @@ SASS Organization: Organize SASS files using partials, mixins, and variables for
 Compile Workflow: Ensure that SASS compilation is part of your development workflow.
 File Structure: Keep the SASS file structure consistent and aligned with your JavaScript components for easier management.
 By integrating SASS into your JavaScript project, you can leverage its capabilities to improve the styling aspects of your tools while keeping the JavaScript functionalities intact.
+
+## Binary and How It Works
+Input Values (A, B): Binary input values are represented by 'A' and 'B', each consisting of 0s and 1s.
+
+Logic Gates:
+
+AND Gate: Produces an output of 1 only if both inputs (A and B) are 1; otherwise, the output is 0.
+OR Gate: Produces an output of 1 if at least one input (A or B) is 1; the output is 0 only if both inputs are 0.
+NOT Gate: Inverts the input; if input A is 1, the output is 0, and vice versa.
+Output (Result): The output of the logic gates (AND, OR, NOT) generates the result based on the input values and the function performed.
+For an AND gate:
+If A = 1 and B = 1, the output is 1.
+If A = 1 and B = 0, the output is 0.
+If A = 0 and B = 0, the output is 0.
+This diagram simplifies the operation of basic binary functions using logic gates, sh
 
