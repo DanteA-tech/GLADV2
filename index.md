@@ -1,9 +1,5 @@
 ---
-layout: home
-search_exclude: true
+layout: page
+search_exclude: false
 ---
-A modified blog for CSA Based on Fastpages- Tirth Thakkar & Haseeb Beg   
 
-
-
-# Posts
