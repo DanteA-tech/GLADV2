@@ -4,7 +4,7 @@ layout: post
 title: CPT PLan
 type: plan
 toc: True
-courses: { compsci: {week: 13} }
+courses: { compsci: {week: 1} }
 ---
 ## Goal
 Integrate Binary and SASS into a practice project to prepare for our passion projct.
@@ -12,7 +12,7 @@ Integrate Binary and SASS into a practice project to prepare for our passion pro
 Binary - convert RGB color codes to binary 
 Color Code - convert messages into binary which will be converted into color.
 Logic Gates- interactive place where buttons are pressed to show what gates do based on true/false values if a light turns off and on
-Math In Binary-  Binary/Decimal calculator that shows the steps between conversion including left/right shifts if specified
+Math In Binary-  Binary/Decimal calculator that shows the steps between conversion including left/right shiftss if specified
 
 1. Convert RGB Color Codes to Binary:
 HTML Structure: Similar to the previous plan.
@@ -20,6 +20,7 @@ SASS Integration:
 Create SASS files for styling, e.g., styles/main.scss.
 Utilize SASS features for styling the color display area, input fields, and buttons.
 JavaScript Functionality: Remains the same as previously outlined.
+3. RGB adjustor that takes an image and changes what the image looks like.
 2. Convert Messages into Binary for Color Display:
 HTML Structure: Similar to the previous plan.
 SASS Integration:
