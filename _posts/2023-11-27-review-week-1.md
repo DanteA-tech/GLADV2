@@ -52,4 +52,5 @@ By integrating SASS into your JavaScript project, you can leverage its capabilit
 # Comments
 Dante and Aswhin: 0.95/1 I loved the plans and the usage of the RGB selector and customizer and AI usage. I also loved the interactive features. Can improve with more customization Lincoln and Gurshawn: 0.94/1 I loved your plans for a text to color converter. This feature was fun to use and the effort put in was great. There was a slight lack of plans but it was still great. Could be improved with more tangible code.
 # Diagrams
-![](<images/Binary-Decimal.png>)
+https://www.canva.com/design/DAF1YvMTXfY/H9Jmor2ttZe7ZXQaSqg15Q/edit
+https://docs.google.com/drawings/d/1XQivknGBqFqUWAIE9-OPVvO8HErxNDOf0qe0iQNm_H0/edit
