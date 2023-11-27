@@ -1,8 +1,8 @@
 ---
 comments: True
 layout: post
-title: CPT PLan
-type: plan
+title: CPT Review
+type: taangibles
 toc: True
 courses: { compsci: {week: 1} }
 ---
