@@ -1,10 +1,10 @@
 ---
 comments: True
 layout: post
-title: CPT PLan
-type: plan
+title: CPT Review Ticket
+type: tangibles
 toc: True
-courses: { compsci: {week: 13} }
+courses: { compsci: {week: 1} }
 ---
 
 ## Goal
