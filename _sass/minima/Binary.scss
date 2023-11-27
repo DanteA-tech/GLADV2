@@ -1,0 +1,63 @@
+// Import Minima's base styles
+@import 'minima';
+
+// Your custom styles
+$primary-color: #3498db;
+$warning-color: #e74c3c;
+
+// Override or extend Minima's styles as needed
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.input-field {
+  margin-bottom: 20px;
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+}
+
+.button {
+  padding: 8px 16px;
+  background-color: $primary-color;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: darken($primary-color, 10%);
+  }
+}
+
+.conversion {
+  margin-bottom: 20px;
+
+  &__title {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  &__result {
+    color: $primary-color;
+  }
+
+  &__error {
+    color: $warning-color;
+  }
+}
