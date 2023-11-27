@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 search_exclude: false
 ---
 
