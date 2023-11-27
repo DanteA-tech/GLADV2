@@ -5,7 +5,6 @@ title: CPT Review Ticket
 type: tangibles
 toc: True
 courses: { compsci: {week: 1} }
-courses: { compsci: {week: 1} }
 ---
 
 ## Goal
