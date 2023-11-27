@@ -4,7 +4,7 @@ layout: post
 title: CPT PLan
 type: plan
 toc: True
-courses: { compsci: {week: 13} }
+courses: { compsci: {week: 1} }
 ---
 
 ## Goal
