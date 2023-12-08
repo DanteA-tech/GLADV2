@@ -1,0 +1,35 @@
+// Variables for colors and styles
+$primary-color: #3498db;
+$secondary-color: #2ecc71;
+$accent-color: #f39c12;
+
+// Base styles
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+// Visual representation styles
+.carnival-ride {
+  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.yourclassical.org%2Fstory%2F2022%2F08%2F20%2Flets-go-to-the-carnival&psig=AOvVaw0KQPEZ-eAmwzYbj96o6rX6&ust=1701800831252000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjF36q09oIDFQAAAAAdAAAAABAD');
+  background-size: cover;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ride-stop {
+  font-weight: bold;
+  margin-bottom: 10px;
+  &:nth-child(even) {
+    color: $secondary-color;
+  }
+  &:nth-child(odd) {
+    color: $accent-color;
+  }
+}
+
+// Other styles for the converter components
+/* Add your styles for input fields, buttons, etc., here */
