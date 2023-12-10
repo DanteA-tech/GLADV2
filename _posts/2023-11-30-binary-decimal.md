@@ -11,7 +11,7 @@ courses: {'compsci': {'week': 2}}
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Binary Guessing Game</title>
+  <title>Binary-Decimal Guessing Game</title>
   <style>
     body {
       font-family: Arial, sans-serif;
