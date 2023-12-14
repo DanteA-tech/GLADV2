@@ -12,7 +12,7 @@ courses: {'compsci': {'week': 3}}
 
 | Crossover Score | Runtime | Plans | Github | Analytics |
 |-----------------|---------|-------|--------|-----------|
-| 0.88/0.9 | [Color Conversions](https://dantea-tech.github.io/GLAD//2023/11/15/txtcol.html), [ASCII image generator](https://dantea-tech.github.io/GLAD//2023/11/27/Ascii.html), [RGB adjuster on image](https://dantea-tech.github.io/GLAD//2023/11/16/Binary.html), [Binary Guessing Game](https://dantea-tech.github.io/GLAD//2023/11/30/binary-decimal.html) | [Binary Guessing Game](https://dantea-tech.github.io/GLAD//2023/11/30/binary-decimal.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/3) | [Team Commits](https://github.com/DanteA-tech/GLAD/commits/main/) |
+| 0.88/0.9 | [Color Conversions](https://dantea-tech.github.io/GLAD//2023/11/15/txtcol.html), [ASCII image generator](https://dantea-tech.github.io/GLAD//2023/11/27/Ascii.html), [RGB adjuster on image](https://dantea-tech.github.io/GLAD//2023/11/16/Binary.html), [Binary Guessing Game](https://dantea-tech.github.io/GLAD//2023/11/30/binary-decimal.html) | [Plan](https://dantea-tech.github.io/GLAD//2023/11/27/review-week-1.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/3) | [Team Commits](https://github.com/DanteA-tech/GLAD/commits/main/) |
 
 # Individuals
 
