@@ -9,120 +9,29 @@ courses: {'compsci': {'week': 3}}
 ---
 
 # Team
-<table>
-  <thead>
-    <tr>
-      <th>Crossover Score</th>
-      <th>Runtime</th>
-      <th>Plans</th>
-      <th>Github</th>
-      <th>Analytics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>0.88/0.9</td>
-      <td><a href="https://dantea-tech.github.io/GLAD//2023/11/15/txtcol.html">Color Conversions, <a href="https://dantea-tech.github.io/GLAD//2023/11/27/Ascii.html">ASCII image generator, <a href="https://dantea-tech.github.io/GLAD//2023/11/16/Binary.html">RGB adjuster on image, <a href="https://dantea-tech.github.io/GLAD//2023/11/30/binary-decimal.html">Binary Guessing Game</a></td>
-      <td><a href="https://dantea-tech.github.io/GLAD//2023/11/30/binary-decimal.html">Binary Guessing Game</a></td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/issues/3">Issues</a></td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/commit/596e13f92ef15790a842f514a4b51e7f38971f89">Binary-Decimal functioning</a></td>
-    </tr>
-  </tbody>
-</table>
-# Individuals
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Team+Indi+Teacher</th>
-      <th>Runtime</th>
-      <th>Issues</th>
-      <th>Key Commit(s)</th>
-      <th>Analytics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Lincoln C</td>
-      <td>0.8+0.88+?=1.68</td>
-      <td><a href="https://dantea-tech.github.io/GLAD//2023/11/30/binary-decimal.html">Binary Guessing Game</a></td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/issues/3">Issues</a></td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/commit/f6c9b0fe00a2240360085efe65be4843e69c9c3e">Binary-Decimal functioning</a></td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/commits/main/?after=21f4df088260dd7ecc55b0e036e5d8c2a183d4de+34">Commits</a>, <a href="https://github.com/LincolnC2008">Profile</a></td>
-    </tr>
-  </tbody>
-</table>
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Team+Indi+Teacher</th>
-      <th>Runtime</th>
-      <th>Issues</th>
-      <th>Key Commit</th>
-      <th>Key Commit</th>
-      <th>Analytics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Dante A</td>
-      <td>0.87+0.88+?=1.75</td>
-      <td><a href="https://dantea-tech.github.io/GLAD//2023/11/16/Binary.html">RGB adjuster on image
-      <td><a href="https://github.com/DanteA-tech/GLAD/issues/6">Issues</a></td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/commit/bd153610a994c4ca94f725edf70a8bce31ca4bb8">Binary and Hex values
-      <td><a href="https://github.com/DanteA-tech/GLAD/actions/runs/7144912127">Scaling and revert </a></td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/graphs/contributors">Commits</a>, <a href="https://github.com/DanteA-tech">Profile</a></td>
-    </tr>
-  </tbody>
-</table>
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Team+Indi+Teacher</th>
-      <th>Runtime</th>
-      <th>Issues</th>
-      <th>Key Commit(s)</th>
-      <th>Plans</th>
-      <th>Analytics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Ashwin V</td>
-      <td>0.85+0.88+?=1.73</td>
-      <td><a href="https://dantea-tech.github.io/GLAD//2023/11/27/Ascii.html">ASCII image generator</td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/issues/5">Issues</a></td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/commit/12196e52424d34337deed44d0588905c28ea3179">Adding first version, <a href="https://github.com/DanteA-tech/GLAD/commit/be4830dafa66b1b005caa8a6f7706fd0f48f92d9">Adding color feature </a></td>
-      <td><a href="https://dantea-tech.github.io/GLAD//2023/11/29/Ashwin_Plans.html">Plans</a></td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/graphs/contributors">Commits</a>, <a href="https://github.com/Ashwinv93">Profile</a></td>
-    </tr>
-  </tbody>
-</table>
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Team+Indi+Teacher</th>
-      <th>Runtime</th>
-      <th>Issues</th>
-      <th>Key Commit(s)</th>
-      <th>Analytics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Gurshawn B</td>
-      <td>0.82+0.87+?=1.70</td>
-      <td><a href="https://dantea-tech.github.io/GLAD//2023/11/15/txtcol.html">Color Conversions</a></td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/issues/2">Issues</a></td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/commit594f9963fdafb0c1da5ec53c38ffc99ed43997c1">Key Commit</a></td>
-      <td><a href="https://github.com/DanteA-tech/GLAD/graphs/contributors">Analytics</a>, <a href="https://github.com/Gurbop">Profile</a></td>
-    </tr>
-  </tbody>
-</table>
+| Crossover Score | Runtime | Plans | Github | Analytics |
+|-----------------|---------|-------|--------|-----------|
+| 0.88/0.9 | [Color Conversions](https://dantea-tech.github.io/GLAD//2023/11/15/txtcol.html), [ASCII image generator](https://dantea-tech.github.io/GLAD//2023/11/27/Ascii.html), [RGB adjuster on image](https://dantea-tech.github.io/GLAD//2023/11/16/Binary.html), [Binary Guessing Game](https://dantea-tech.github.io/GLAD//2023/11/30/binary-decimal.html) | [Binary Guessing Game](https://dantea-tech.github.io/GLAD//2023/11/30/binary-decimal.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/3) | [Binary-Decimal functioning](https://github.com/DanteA-tech/GLAD/commit/596e13f92ef15790a842f514a4b51e7f38971f89) |
+
+# Individuals
+
+| Name | Team+Indi+Teacher | Runtime | Issues | Key Commit(s) | Analytics |
+|------|-------------------|---------|--------|---------------|-----------|
+| Lincoln C | 0.8+0.88+?=1.68 | [Binary Guessing Game](https://dantea-tech.github.io/GLAD//2023/11/30/binary-decimal.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/3) | [Binary-Decimal functioning](https://github.com/DanteA-tech/GLAD/commit/f6c9b0fe00a2240360085efe65be4843e69c9c3e) | [Commits](https://github.com/DanteA-tech/GLAD/commits/main/?after=21f4df088260dd7ecc55b0e036e5d8c2a183d4de+34), [Profile](https://github.com/LincolnC2008) |
+
+| Name | Team+Indi+Teacher | Runtime | Issues | Key Commit | Key Commit | Analytics |
+|------|-------------------|---------|--------|------------|------------|-----------|
+| Dante A | 0.87+0.88+?=1.75 | [RGB adjuster on image](https://dantea-tech.github.io/GLAD//2023/11/16/Binary.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/6) | [Binary and Hex values](https://github.com/DanteA-tech/GLAD/commit/bd153610a994c4ca94f725edf70a8bce31ca4bb8) | [Scaling and revert](https://github.com/DanteA-tech/GLAD/actions/runs/7144912127) | [Commits](https://github.com/DanteA-tech/GLAD/graphs/contributors), [Profile](https://github.com/DanteA-tech) |
+
+| Name | Team+Indi+Teacher | Runtime | Issues | Key Commit(s) | Plans | Analytics |
+|------|-------------------|---------|--------|---------------|-------|-----------|
+| Ashwin V | 0.85+0.88+?=1.73 | [ASCII image generator](https://dantea-tech.github.io/GLAD//2023/11/27/Ascii.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/5) | [Adding first version](https://github.com/DanteA-tech/GLAD/commit/12196e52424d34337deed44d0588905c28ea3179), [Adding color feature](https://github.com/DanteA-tech/GLAD/commit/be4830dafa66b1b005caa8a6f7706fd0f48f92d9) | [Plans](https://dantea-tech.github.io/GLAD//2023/11/29/Ashwin_Plans.html) | [Commits](https://github.com/DanteA-tech/GLAD/graphs/contributors), [Profile](https://github.com/Ashwinv93) |
+
+| Name | Team+Indi+Teacher | Runtime | Issues | Key Commit(s) | Analytics |
+|------|-------------------|---------|--------|---------------|-----------|
+| Gurshawn B | 0.82+0.87+?=1.70 | [Color Conversions](https://dantea-tech.github.io/GLAD//2023/11/15/txtcol.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/2) | [Key Commit](https://github.com/DanteA-tech/GLAD/commit594f9963fdafb0c1da5ec53c38ffc99ed43997c1) | [Analytics](https://github.com/DanteA-tech/GLAD/graphs/contributors), [Profile](https://github.com/Gurbop) |
+
 
 ## Lincoln- Binary to Decimal Converter Game
 What Lincoln did: After we met for our live review, I realized that I had a good idea going and it was fully functional vut I needed some sort of way for the audience to learn what a binary numbereven is so I added a hint button which would also qualify as my key commit.
