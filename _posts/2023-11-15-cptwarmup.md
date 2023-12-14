@@ -1,11 +1,13 @@
 ---
+toc: False
 comments: True
 layout: post
-title: CPT PLan
-type: plan
-toc: True
-courses: { compsci: {week: 1} }
+title: Cpt plans
+description: Binary CPT Project Review Ticket
+type: tangibles
+courses: {'compsci': {'week': 1}}
 ---
+
 ## Goal
 Integrate Binary and SASS into a practice project to prepare for our passion projct.
 ## Elements
