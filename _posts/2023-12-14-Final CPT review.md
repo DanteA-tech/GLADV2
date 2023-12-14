@@ -2,7 +2,7 @@
 toc: False
 comments: True
 layout: notebook
-title: Binary CPT Project Review Ticket
+title: Binary CPT Project Review Ticket 2
 description: Binary CPT Project Review Ticket
 type: tangibles
 courses: {'compsci': {'week': 3}}
