@@ -22,7 +22,7 @@ courses: {'compsci': {'week': 3}}
 
 | Name | Team+Indi+Teacher | Runtime | Issues | Key Commit | Key Commit | Analytics |
 |------|-------------------|---------|--------|------------|------------|-----------|
-| Dante A | 0.87+0.88+?=1.75 | [RGB adjuster on image](https://dantea-tech.github.io/GLAD//2023/11/16/Binary.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/6) | [Binary and Hex values](https://github.com/DanteA-tech/GLAD/commit/bd153610a994c4ca94f725edf70a8bce31ca4bb8) | [Scaling and revert](https://github.com/DanteA-tech/GLAD/actions/runs/7144912127) | [Commits](https://github.com/DanteA-tech/GLAD/graphs/contributors), [Profile](https://github.com/DanteA-tech) |
+| Dante A | 0.87+0.88+?=1.75 | [RGB adjuster on image](https://dantea-tech.github.io/GLAD//2023/11/16/Binary.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/6) | [Binary and Hex values](https://github.com/DanteA-tech/GLAD/commit/bd153610a994c4ca94f725edf70a8bce31ca4bb8) | [Scaling and revert](https://github.com/DanteA-tech/GLAD/commit/bd153610a994c4ca94f725edf70a8bce31ca4bb8) | [Commits](https://github.com/DanteA-tech/GLAD/graphs/contributors), [Profile](https://github.com/DanteA-tech) |
 
 | Name | Team+Indi+Teacher | Runtime | Issues | Key Commit(s) | Plans | Analytics |
 |------|-------------------|---------|--------|---------------|-------|-----------|
