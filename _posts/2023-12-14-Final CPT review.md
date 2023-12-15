@@ -92,10 +92,6 @@ If I had more time I could have been able to perfect the image hight and width s
 - After Sergi graded our group's work, one of his suggestions was that the image should be scaled to fix the window since it is annoying to have to move up and down. To my best ability,attempted to scale the image down so that it only takes up 80 percent of the length and width. Looking back I probably couldve made it smaller since teh image is still pretty big.
 ## Adding the binary and hex values to color wheel
 - One of Mr morts main points was that the code has to be able to teach teh reader something about binary. I think my code helps the learner see how binary is used in colors which could be seen by the sliders. However, the color wheels I had were the most visual, but they had no information attached to them. I initially tried to make it so the user's click appears on the color wheel, but I was unable to do it. So I finished by just displaying the binary and hex values of where the user last clicked alongside the wheel.
-
-## Retrospective, What I could've done looking back
-Looking back on my actual code, I think my code would've extremely benefited if I got the color wheel indicator to work. This is because it would've served as a great visual example regarding the rgb color wheel. Also, another thing I can improve on in the future are my communication skills with my team. We could've checked in more frequently during class and through text messages. Lastly, we could've increased out usage of plans since it would help us be more up to date and see how much progress everyone has done, helping us start conversations in our checkups.
-
 ## Key commits
 I had two main key commits, the commit for the scaling of teh image and the commit for the binary and hex.
 [Scaling and revert](https://github.com/DanteA-tech/GLAD/actions/runs/7144912127)
