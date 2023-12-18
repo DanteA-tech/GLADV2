@@ -18,19 +18,19 @@ courses: {'compsci': {'week': 3}}
 
 | Name | Team+Indi+Teacher | Runtime | Issues | Key Commit(s) | Analytics |
 |------|-------------------|---------|--------|---------------|-----------|
-| Lincoln C | 0.8+0.88+?=1.68 | [Binary Guessing Game](https://dantea-tech.github.io/GLAD//2023/11/30/binary-decimal.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/3) | [Binary-Decimal functioning](https://github.com/DanteA-tech/GLAD/commit/f6c9b0fe00a2240360085efe65be4843e69c9c3e) | [Commits](https://github.com/DanteA-tech/GLAD/commits/main/?after=21f4df088260dd7ecc55b0e036e5d8c2a183d4de+34), [Profile](https://github.com/LincolnC2008) |
+| Lincoln C | 0.8+0.88+.12=1.80 | [Binary Guessing Game](https://dantea-tech.github.io/GLAD//2023/11/30/binary-decimal.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/3) | [Binary-Decimal functioning](https://github.com/DanteA-tech/GLAD/commit/f6c9b0fe00a2240360085efe65be4843e69c9c3e) | [Commits](https://github.com/DanteA-tech/GLAD/commits/main/?after=21f4df088260dd7ecc55b0e036e5d8c2a183d4de+34), [Profile](https://github.com/LincolnC2008) |
 
 | Name | Team+Indi+Teacher | Runtime | Issues | Key Commit | Key Commit | Analytics |
 |------|-------------------|---------|--------|------------|------------|-----------|
-| Dante A | 0.87+0.88+?=1.75 | [RGB adjuster on image](https://dantea-tech.github.io/GLAD//2023/11/16/Binary.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/6) | [Binary and Hex values](https://github.com/DanteA-tech/GLAD/commit/bd153610a994c4ca94f725edf70a8bce31ca4bb8) | [Scaling and revert](https://github.com/DanteA-tech/GLAD/commit/bd153610a994c4ca94f725edf70a8bce31ca4bb8) | [Commits](https://github.com/DanteA-tech/GLAD/graphs/contributors), [Profile](https://github.com/DanteA-tech) |
+| Dante A | 0.87+0.88+.12=1.1.87 | [RGB adjuster on image](https://dantea-tech.github.io/GLAD//2023/11/16/Binary.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/6) | [Binary and Hex values](https://github.com/DanteA-tech/GLAD/commit/bd153610a994c4ca94f725edf70a8bce31ca4bb8) | [Scaling and revert](https://github.com/DanteA-tech/GLAD/commit/bd153610a994c4ca94f725edf70a8bce31ca4bb8) | [Commits](https://github.com/DanteA-tech/GLAD/graphs/contributors), [Profile](https://github.com/DanteA-tech) |
 
 | Name | Team+Indi+Teacher | Runtime | Issues | Key Commit(s) | Plans | Analytics |
 |------|-------------------|---------|--------|---------------|-------|-----------|
-| Ashwin V | 0.85+0.88+?=1.73 | [ASCII image generator](https://dantea-tech.github.io/GLAD//2023/11/27/Ascii.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/5) | [Adding first version](https://github.com/DanteA-tech/GLAD/commit/12196e52424d34337deed44d0588905c28ea3179), [Adding color feature](https://github.com/DanteA-tech/GLAD/commit/be4830dafa66b1b005caa8a6f7706fd0f48f92d9) | [Plans](https://dantea-tech.github.io/GLAD//2023/11/29/Ashwin_Plans.html) | [Commits](https://github.com/DanteA-tech/GLAD/graphs/contributors), [Profile](https://github.com/Ashwinv93) |
+| Ashwin V | 0.85+0.88+.12=1.85 | [ASCII image generator](https://dantea-tech.github.io/GLAD//2023/11/27/Ascii.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/5) | [Adding first version](https://github.com/DanteA-tech/GLAD/commit/12196e52424d34337deed44d0588905c28ea3179), [Adding color feature](https://github.com/DanteA-tech/GLAD/commit/be4830dafa66b1b005caa8a6f7706fd0f48f92d9) | [Plans](https://dantea-tech.github.io/GLAD//2023/11/29/Ashwin_Plans.html) | [Commits](https://github.com/DanteA-tech/GLAD/graphs/contributors), [Profile](https://github.com/Ashwinv93) |
 
 | Name | Team+Indi+Teacher | Runtime | Issues | Key Commit(s) | Analytics |
 |------|-------------------|---------|--------|---------------|-----------|
-| Gurshawn B | 0.82+0.87+?=1.70 | [Color Conversions](https://dantea-tech.github.io/GLAD//2023/11/15/txtcol.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/2) | [Key Commit](https://github.com/DanteA-tech/GLAD/commit594f9963fdafb0c1da5ec53c38ffc99ed43997c1) | [Analytics](https://github.com/DanteA-tech/GLAD/graphs/contributors), [Profile](https://github.com/Gurbop) |
+| Gurshawn B | 0.82+0.87+.12=1.82 | [Color Conversions](https://dantea-tech.github.io/GLAD//2023/11/15/txtcol.html) | [Issues](https://github.com/DanteA-tech/GLAD/issues/2) | [Key Commit](https://github.com/DanteA-tech/GLAD/commit594f9963fdafb0c1da5ec53c38ffc99ed43997c1) | [Analytics](https://github.com/DanteA-tech/GLAD/graphs/contributors), [Profile](https://github.com/Gurbop) |
 
 
 ## Lincoln- Binary to Decimal Converter Game
