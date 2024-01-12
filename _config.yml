@@ -1,9 +1,9 @@
-title: Nighthawk-Pages
+title: Jithub Pages
 description: "August 2023 to June 2024"
-owner_name: GLAD
+owner_name: GLADV2
 github_username: Ashwinv93
-github_repo: "GLAD"
-baseurl: "/GLAD"
+github_repo: "GLADV2"
+baseurl: "/GLADV2"
 remote_theme: jekyll/minima
 minima:
   social_links:
