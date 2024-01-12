@@ -9,7 +9,15 @@ courses: {'compsci': {'week': 4}}
 ---
 
 # Frontend (Vance, Ashwin, and Dante)
-Vance, Ashwin, and Dante would collectively strategize the implementation of both the frontend and backend for the Clash Royale deck rating website. Firstly, they would agree on a comprehensive technology stack, opting for a frontend framework like React or Vue.js to build an interactive user interface and a backend framework such as Django or Express coupled with a database system, maybe MongoDB or PostgreSQL. Vance, with a focus on user experience, would lead the frontend development, designing responsive and visually appealing UI components. Ashwin would concurrently handle the backend, creating API endpoints to interact with the database, emphasizing functionalities like deck submissions, ratings, and comments. Dante would work on seamless integration between the frontend and backend, ensuring data flow and rendering are optimized. Regular collaborative meetings, version control, and testing would be paramount to guarantee a cohesive implementation. The trio’s combined efforts would result in a feature-rich Clash Royale deck rating website, blending intuitive frontend design with robust backend functionality.
+
+## Ashwin
+I will be in charge of creating the SASS and style formating with vance. I will also help with the API integration for my deck builder. I want it to be able to anyilize the stats of all of the card from our backend api, along with online apis, such as Royal Api, to acsess popular decks. My feature will also give winrates or other statistics based on the deck.
+
+## Vance
+I will be in charge of most of the frontend visual style and color scheme with constructing the interative elements such as tables and dragable objects with their correct styling. This will utilize my knowledge of html for the visual elements and mixed my java knowledge to create moveable tiles and interactive elements to engage the viewer. This will tie in with Ashwin and Dante's features impriving the user interface and making them function. I will also help the backend developers when neccesary as we are a 5 person team, and I have experience from my last team on backend. 
+
+## Dante
+My feature will be a card collection and potentially like and dislike certain cards and decks submitted by users. The likes and dislikes could be stored in the back end where the users specific likes and dislikes are stored. Also, the card collection I beleive this could be stored in a sq lite database connected with lincoln database. I woud have to work on integrating the backend to the front end so the users frontend information gets stored with lincolns.
 
 # Backend (Lincoln and Gurshawn)
 
@@ -75,3 +83,4 @@ Documentation:
 
 Create clear and concise documentation for users.
 Include developer documentation for understanding site usage, APIs, and deck creation.
+
