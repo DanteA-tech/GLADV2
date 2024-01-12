@@ -5,11 +5,12 @@ layout: notebook
 title: CPT Plan
 description: Binary CPT Project Review Ticket
 type: tangibles
-courses: {'compsci': {'week': 3}}
+courses: {'compsci': {'week': 4}}
 ---
 
 # Backend (Lincoln and Gurshawn)
-Lincoln and Gurshawn would collaboratively implement the backend of the Clash Royale deck rating website by first agreeing on a technology stack that aligns with their expertise. We can do a backend framework like Django or Express and a database system such as PostgreSQL to store the necessary data. We would have user authentication, designing the Users table, and implementing secure password storage. Gurshawn would concentrate on creating API endpoints for deck submissions, ratings, and comments, ensuring these endpoints interact seamlessly with the chosen database. Regular communication and version control, perhaps using Git, would be crucial for code integration. They would prioritize data validation and security measures, and conduct thorough testing to ensure the backend functions smoothly and securely. Regular code reviews and iterations would be integral to refining the backend, allowing for a cohesive implementation of the Clash Royale deck rating website's core functionality.
+
+This website is designed for Clash Royale enthusiasts, providing a platform to select cards from the game, create personalized decks, and share them with the community. Users can publish their decks, allowing others to view, rate, and add public comments. The interactive aspect encourages strategic discussions and the exchange of ideas among players. The platform offers both light and dark modes to accommodate user preferences. Users also have the option to store their decks privately for personal use or share them publicly, contributing to the collective knowledge of Clash Royale strategies. Overall, the website serves as a hub for users to explore, rate, and discuss various Clash Royale decks, enhancing the gaming experience for the community. To enhance functionality and user interactivity, APIs are employed to fetch and display Clash Royale card data in real-time. This ensures that users can seamlessly select and integrate the latest cards into their decks. The integration of APIs also enables dynamic updates, ensuring that the platform remains current with the ever-evolving Clash Royale card pool.
 
 User Authentication:
 
