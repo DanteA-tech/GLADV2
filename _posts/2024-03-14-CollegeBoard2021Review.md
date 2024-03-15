@@ -110,3 +110,6 @@ Photo of question
 <img src="{{site.baseurl}}/images/Q67.png" alt="Description of Image">
 
 My correction/reflection: I selected option c and d one of which being C was incorrect. C was incorrect because it makes orange a chance of 0.25 when in actuality it is .375. Also, it gives purple a 0.5 chance when it was actually also 0.375. Option A is correct because it assings a 1/4 chance to spin blue which is correct then it gives a 3/4 chance to get either orange or purple. If the orange and purple have the same chance of being spun then they each have a 3/8 chance which is correct. 
+
+## Reflection
+Overall, this test went very well. I can feel myself learning more and more as my scores increase, need to look answers up decreases, and my time per question decreases. I included photos of the lessons for when I missed a question and based on what I saw there was no patterns in terms of lessons where I missed a significant amount of questions. I will definitely be looking over these mcqs before the ap test in order to see how quick I am and how accurate. However, I did notice that questions where I am asked to remove a line of code are say what the output to the code is caused me extra trouble so for my future studying I will place a little emphasis on those kind of questions.
