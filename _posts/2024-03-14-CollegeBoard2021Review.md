@@ -1,4 +1,12 @@
-<html>
+---
+comments: True
+layout: post
+title: College board
+type: plans
+toc: True
+courses: { compsci: {week: 3} }
+---
+
 
 ## College Board 2021 MCQ Review
 
