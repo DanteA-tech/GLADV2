@@ -87,7 +87,26 @@ Photo of question
 
 <img src="{{site.baseurl}}/images/Q59.png" alt="Description of Image">
 
-My correction/reflection: I selected option D, but this option is incorrect since running p on one processor takes 30 sec and runnning the rest on another takes 45. Therefore this one will take 45 seconds instead of 40. Option a is correct since running p and q together and R and S together will result in the solution taking 40 seconds which is what is needed. 
+My correction/reflection: I selected option B, option B is wrong because the information would be valuable for recommending routes, but Adrianna would directly input this info. Option C is correct because she would need other users to send their locations taken from others devices not Adriannas. 
 
+## Question 64
 
-<html>
+stats
+<img src="{{site.baseurl}}/images/Q64s.png" alt="Description of Image">
+
+Photo of question
+
+<img src="{{site.baseurl}}/images/Q64.png" alt="Description of Image">
+
+My correction/reflection: I selected Line 8 and 3 and Line 3 was incorrect. It was incorrect because This line should not be removed. The variable is given the value adult by default and then assigned the value "senior citizen" or "minor" based on what happens. Line 10 should be removed since this code could results in adult being assigned even if it was supposed to be senior citizen.
+
+## Question 67
+
+stats
+<img src="{{site.baseurl}}/images/Q67s.png" alt="Description of Image">
+
+Photo of question
+
+<img src="{{site.baseurl}}/images/Q67.png" alt="Description of Image">
+
+My correction/reflection: I selected option c and d one of which being C was incorrect. C was incorrect because it makes orange a chance of 0.25 when in actuality it is .375. Also, it gives purple a 0.5 chance when it was actually also 0.375. Option A is correct because it assings a 1/4 chance to spin blue which is correct then it gives a 3/4 chance to get either orange or purple. If the orange and purple have the same chance of being spun then they each have a 3/8 chance which is correct. 
