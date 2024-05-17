@@ -1,7 +1,7 @@
 ---
 comments: True
 layout: post
-title: College board
+title: Deployment
 type: plans
 toc: True
 courses: { compsci: {week: 3} }
